@@ -1,0 +1,162 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2500
+>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(ATHUL SUKUMARAN) Tj
+0 -30 Td
+/F1 12 Tf
+(Full-Stack Developer) Tj
+0 -40 Td
+(Email: athulsukumaran457@gmail.com) Tj
+0 -20 Td
+(Phone: +91 6282948616) Tj
+0 -20 Td
+(Location: Kerala, India) Tj
+0 -20 Td
+(LinkedIn: linkedin.com/in/athul457) Tj
+0 -20 Td
+(GitHub: github.com/athul457) Tj
+
+0 -50 Td
+/F1 14 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -25 Td
+/F1 10 Tf
+(Self-motivated full-stack developer with a passion for modern web technologies.) Tj
+0 -15 Td
+(Skilled in responsive design, performance optimization, and scalable architectures.) Tj
+0 -15 Td
+(Collaborative team player with strong problem-solving abilities and a growth mindset.) Tj
+
+0 -40 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -25 Td
+/F1 10 Tf
+(Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS) Tj
+0 -15 Td
+(Backend: Node.js, Express.js, Java) Tj
+0 -15 Td
+(Database: SQL, MongoDB, MySQL) Tj
+0 -15 Td
+(Tools: Git, GitHub, VS Code, Postman) Tj
+
+0 -40 Td
+/F1 14 Tf
+(PROJECTS) Tj
+0 -25 Td
+/F1 12 Tf
+(Expense-Tracker) Tj
+0 -15 Td
+/F1 10 Tf
+(Web application for tracking and managing personal finances with data visualization.) Tj
+0 -15 Td
+(Technologies: JavaScript, HTML, CSS, Node.js, Express, MongoDB) Tj
+
+0 -25 Td
+/F1 12 Tf
+(MovieVerse) Tj
+0 -15 Td
+/F1 10 Tf
+(Responsive movie ratings website showcasing trending and top-rated movies.) Tj
+0 -15 Td
+(Technologies: HTML5, Tailwind CSS, Responsive Design) Tj
+
+0 -25 Td
+/F1 12 Tf
+(DineEasy) Tj
+0 -15 Td
+/F1 10 Tf
+(Modern restaurant app for browsing menus and booking tables.) Tj
+0 -15 Td
+(Technologies: HTML5, CSS3, JavaScript, Tailwind CSS) Tj
+
+0 -40 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F1 12 Tf
+(Master of Computer Application) Tj
+0 -15 Td
+/F1 10 Tf
+(APJ Abdul Kalam Technical University - Present) Tj
+
+0 -20 Td
+/F1 12 Tf
+(Bachelor of Science, Computer Science) Tj
+0 -15 Td
+/F1 10 Tf
+(Calicut University - August 2020) Tj
+
+0 -40 Td
+/F1 14 Tf
+(CERTIFICATIONS) Tj
+0 -25 Td
+/F1 12 Tf
+(Cloud Computing - NPTEL, IIT) Tj
+0 -15 Td
+/F1 10 Tf
+(Elite Certification - Scored 77/100 - October 2024) Tj
+
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000002826 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2903
+%%EOF
